@@ -1,0 +1,10 @@
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp1.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp2.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp3.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp4.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp5.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp6.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp7.pt
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp8.pth
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp9.pth
+https://github.com/wooseok-shin/Lesion-Detection-3rd-place-solution/releases/download/ensemble_model_weights/exp10.pth
