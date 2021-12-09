@@ -2,6 +2,7 @@
 
 ## Ensemble 시 다양성을 많이 주기위해 이미지 사이즈, 모델 사이즈, Fold를 다양하게 학습
 cd yolov5
+mkdir weights/
 
 ### 2 x yolov5l (0Fold: 384,512 size)
 python train.py --project weights/ --name=exp1 --img 384 --batch 16 --epochs 125 --data lesion_0f.yaml --weights yolov5l.pt --save-period 5 --workers 4
